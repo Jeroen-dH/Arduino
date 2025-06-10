@@ -15,3 +15,21 @@ Items used:
 8x 220 Ohm resistors,
 8x leds
 
+# Opdracht #3
+Laat met een knop 2 leds heen en weer switchen van HIGH -> LOW - LOW -> HIGH
+1x button
+2x resistor 220ohm
+1x resisitor 10k ohm
+2x leds
+8x wires
+
+# Opdracht #4
+Zet 6 leds op een rij en bestuur ze individueel met een potenmeter
+
+1x potenmeter
+6x leds
+6x resistor 220ohm
+11x wires
+
+
+# Opdracht #5
