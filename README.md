@@ -33,3 +33,18 @@ Zet 6 leds op een rij en bestuur ze individueel met een potenmeter
 
 
 # Opdracht #5
+Laat een servomotor heen en weer draaien door middel van 2 knoppen met verschillende snelheden
+
+1x servomotor
+2x button
+2x 10k ohm resistor
+9x wires
+
+
+# Opdracht #6
+Maar een stopwatch met een lcd scherm met behulp van 2 knoppen, knop 1 start/laptime, knop 2 pauze, tegelijk = reset
+
+1x lcd i2c scherm
+2x button
+2x resistor 10k ohm
+10x wires
